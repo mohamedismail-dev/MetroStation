@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metro Station</string>
+    <string name="hint">hint</string>
+
+    <string-array name="lines">
+        <item>line1</item>
+        <item>line2</item>
+
+
+    </string-array>
+</resources>

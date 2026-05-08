@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/search_place"
+    android:title="Search Place"
+    android:icon="@drawable/ic_search_earth"
+    app:cnb_backgroundColor="#e75555"
+    app:cnb_iconColor="#fff"
+    app:cnb_textColor="#fff"
+    />
+
+    <item
+        android:id="@+id/metro_list"
+        android:title="Metro List"
+        android:icon="@drawable/ic_search_list"
+        app:cnb_backgroundColor="#e75555"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        />
+</menu>

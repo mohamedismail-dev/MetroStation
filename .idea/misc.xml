@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable-v24/custombuttom.xml" value="0.168" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable-v24/ic_aiga_bus.xml" value="0.269" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable-v24/ic_sweep.xml" value="0.284" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/background_grad1.xml" value="0.2735" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/custombuttom_yellow.xml" value="0.269" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_admission_tickets.xml" value="0.284" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_alarm_clock.xml" value="0.269" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_arrow_outline_up_right_24_filled.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_background_victors.xml" value="0.1955" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_baseline_double_arrow_24.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_bullet_train.xml" value="0.284" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_cairometro.xml" value="0.284" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_drop_down.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_history_24_filled.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.247" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_left_arr.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_location_poi.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_right_arr.xml" value="0.287" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/ic_station.xml" value="0.284" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/new_custom_bttom.xml" value="0.168" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/round_btm_bar.xml" value="0.2735" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/drawable/yellow_buttom.xml" value="0.269" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_asdfsd.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_map_view.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_nothing.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_result_screen.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_result_screen_searchplace.xml" value="0.2986111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_result_search_place.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_splash_screen.xml" value="0.2986111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/layout/activity_themain.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/menu/menu_btm_bar.xml" value="0.2179054054054054" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MetroStation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.168" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
