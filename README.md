@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Highlight Feature – “Go Anywhere by Just Typing a Name”
+## ✨ Highlight Feature – “Go Anywhere by Just Typing a Name.”
 
 Simply type a street name, district, or landmark (e.g., "Zamalek", "Nasr City"), and the app will:
 
@@ -61,6 +61,22 @@ Simply type a street name, district, or landmark (e.g., "Zamalek", "Nasr City"),
 | 24+ | 20 |
 
 > The fare is automatically calculated based on the number of stations you will pass.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/main_en.jpg" alt="Main Screen - English" width="200" />
+  <img src="screenshots/main_ar.jpg" alt="Main Screen - Arabic" width="200" />
+</p>
+
+---
+
+## 👤 Developer
+
+**Mohamed Ismail**  
+[LinkedIn](https://linkedin.com/in/mohamed-ismail-dev) | [GitHub](https://github.com/mohamedismail-dev)
 
 ---
 
