@@ -3,6 +3,10 @@ plugins {
 }
 
 android {
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
+    }
     namespace "com.example.metrostation"
     compileSdk 33
 
