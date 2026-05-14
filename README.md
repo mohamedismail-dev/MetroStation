@@ -66,10 +66,16 @@ Simply type a street name, district, or landmark (e.g., "Zamalek", "Nasr City"),
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/MOCKUP.jpg" alt="App Mockup" width="600" />
+</p>
+
 <p align="center">
   <img src="screenshots/main_en.jpg" alt="Main Screen - English" width="200" />
-  <img src="screenshots/main_ar.jpg" alt="Main Screen - Arabic" width="200" />
   <img src="screenshots/search_by_placeName.jpg" alt="Search by Place Name" width="200" />
+  <img src="screenshots/main_ar.jpg" alt="Main Screen - Arabic" width="200" />
 </p>
 
 ---
