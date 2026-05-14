@@ -69,7 +69,7 @@ Simply type a street name, district, or landmark (e.g., "Zamalek", "Nasr City"),
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/MOCKUP.jpg" alt="App Mockup" width="600" />
+  <img src="screenshots/MOCKUP.png" alt="App Mockup" width="600" />
 </p>
 
 <p align="center">
